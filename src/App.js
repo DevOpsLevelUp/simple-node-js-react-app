@@ -13,7 +13,7 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
-          <h1>This application is deployed using jenkins pipeline </h1>
+          <h1>This application is deployed using jenkins pipeline with khaled </h1>
       </div>
     );
   }
