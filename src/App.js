@@ -14,8 +14,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
           <h1>This application is deployed using jenkins pipeline with khaled </h1>
-        <img src="https://www.tek-up.de/plans/img/logo-header.png" alt="Spidertocat"
-           class="img-responsive center-block" style="width:300px"/>
+        <img src="https://www.tek-up.de/plans/img/logo-header.png" />
       </div>
     );
   }
