@@ -14,7 +14,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
           <h1>This application is deployed using jenkins pipeline with khaled </h1>
-        <img src="https://www.tek-up.de/plans/img/logo-header.png" />
+        <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" />
       </div>
     );
   }
